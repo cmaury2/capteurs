@@ -1,1 +1,1 @@
-premier test
+console.writeline("hello, c# Ac!");
