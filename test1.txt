@@ -1,3 +1,7 @@
 console.writeline("hello, c# Ac!");
+<<<<<<< HEAD
 console.writeline("hello, c# Ac!");
 console.writeline("hello, c# Ac!");
+=======
+modif5
+>>>>>>> DEV
